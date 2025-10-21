@@ -1,0 +1,30 @@
+section {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content:center ;
+}
+section article{
+    width: 400px;
+    height: 500px;
+    margin: 10px;
+    padding: 5px;
+    border: 5px;
+    border-radius: 10px;
+    background-color: rgb(245, 178, 178);
+
+}
+section article img{
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+section article h2{
+    font-size: 16pt ;
+    margin: 16px 0;
+
+}
+section article p {
+    font-size: 14pt;
+    color: #4d0c0c;
+}
